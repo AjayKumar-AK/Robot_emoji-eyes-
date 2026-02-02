@@ -1,6 +1,6 @@
 # Robot_emoji-eyes-
 This is a simple repo where i created some robot emotions using python pygame library  this only have the eyes inspired from EMO.
-This is a simple,cute robotic face that I created using python it uses pygame library it also uses other libraries like random,enum and time.
+
 Emotions included :
      Normal mood
      Happy mood
